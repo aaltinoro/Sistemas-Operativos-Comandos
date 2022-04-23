@@ -25,4 +25,23 @@ Comandos de la clase de Ulacit Sistemas Operativos:
 | sudo nano crontab.cron | comando usado para generar un archivo con cronjobs |
 | crontab crontab.cron | comando usado para poner a trabajar un archivo con cronjobs |
 | crontab -l | lista cronjobs activos | 
+| pwd | nos da como output el path del directorio en el cual estamos | 
+| cd .. | nos mueve un nivel más arriba de nuestra carpeta actual | 
+| cd - | nos devuelve al directorio en el cual estábamos antes | 
+| cp | nos sirve para copiar |
+| rm | nos sirve para borrar |
+| rm - r | borrar recursivamente |
+| mv | se utiliza para mover o renombrar dependiendo el caso |
+| mkdir | crea un directorio o carpeta |
+| man | muestra manual de cualquier comando |
+| sudo | superuser do, equivalente a correr como admin en windows |
+| apt yum y pacman | funcionan para instalar, antes se mencionó pacman el cual se usa en Manjaro |
+| cat | es un concatenado generalmente se usa para ver contenido de un archivo sin abrir un editor |
+| ps | procesos activos |
+| whoami | usuario en uso |
+| uname | información del sistema operativa |
+| neofetch | similar pero tiene información de hardware y un formato agradable |
+| wget | nos funciona para obtener cosas de internet | 
+| ifconfig | información util de ips relacionados al sistema | 
+
 
