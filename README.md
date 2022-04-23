@@ -1,8 +1,13 @@
 # Sistemas-Operativos-Comandos
 Comandos de la clase de Ulacit Sistemas Operativos:
 
+    
+| First Header  | Second Header |
+| ------------- | ------------- |
+| sudo pacman 'Syuu | Content Cell  |
+| sudo pacman -S unrar zip unzip  | Content Cell  |
+    
     1  sudo pacman 'Syuu
-    2  sudo pacman -Syuu
     3  sudo pacman -S unrar zip unzip
     4  sudo pacman -S yay
     5  sudo yay -S --needed base-devel
