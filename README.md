@@ -9,15 +9,11 @@ Comandos de la clase de Ulacit Sistemas Operativos:
 | sudo pacman -S yay | Instala paquetes de PKGBUILDs en Manjaro |
 | yay -S google-chrome | instala chrome en Manjaro |
 | sudo pacman -S apache | instala apache en Manjaro |
+| sudo nano /srv/html/index.html | abre en editor de texto el archivo index.html|
+| clear | limpia la terminal |
+| cd dirdos/ | se usa cd para entrar a un directorio en este caso dirdos |
+| sudo chown aaaltinoro741 dirdos| se utiliza chown para obtener posesión de una carpeta en este caso dirdos para el usuario aaltinoro741 |
 
-sudo nano /srv/html/index.html
-       10  sudo nano /srv/html/index.html
-       11  clear
-       12  cd dirdos/
-       13  sudo chown aaaltinoro741 dirdos
-       14  clear
-       15  sudo chown aaaltinoro741 /home/aaaltinoro741/dirdos
-       16  sudo chmod 600 /home/aaaltinoro741/dirdos
        17  ls
        18  sudo nano ls
        19  sudo ls
