@@ -2,19 +2,15 @@
 Comandos de la clase de Ulacit Sistemas Operativos:
 
     
-| First Header  | Second Header |
+| Comando  | Función |
 | ------------- | ------------- |
-| sudo pacman 'Syuu | Content Cell  |
-| sudo pacman -S unrar zip unzip  | Content Cell  |
-    
-    1  sudo pacman 'Syuu
-    3  sudo pacman -S unrar zip unzip
-    4  sudo pacman -S yay
-    5  sudo yay -S --needed base-devel
-    6  yay -S google-chrome
-    7  yay -S google-chrome
-    8  sudo pacman -S apache
-    9  sudo nano /srv/html/index.html
+| sudo pacman Syuu | Sincroniza y hace actualización de paquetes en Manjaro |
+| sudo pacman -S unrar zip unzip  | Instala unrar zip y unzip en <anjaro |
+| sudo pacman -S yay | Instala paquetes de PKGBUILDs en Manjaro |
+| yay -S google-chrome | instala chrome en Manjaro |
+| sudo pacman -S apache | instala apache en Manjaro |
+
+sudo nano /srv/html/index.html
        10  sudo nano /srv/html/index.html
        11  clear
        12  cd dirdos/
